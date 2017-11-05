@@ -147,6 +147,7 @@
     " }
 
     " NerdTree {
+        autocmd VimEnter * NERDTree
         let NERDTreeShowBookmarks = 1
         let NERDTreeQuitOnOpen    = 0
         let NERDTreeShowHidden    = 1
