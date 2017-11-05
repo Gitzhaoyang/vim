@@ -29,7 +29,7 @@ Installation
         git clone https://github.com/powerline/fonts.git  ~/.vim/powerline_fonts
         cd ~/.vim/powerline_fonts && ./install.sh
 
-        ps: if you are using iTerm2 on Mac, you should check on the option _Perferences > Profiles > Text > Use a different font for non-ASCII text_ and change the non-ascii font as _**for Powerline_  
+ps: if you are using iTerm2 on Mac, you should check on the option _Perferences > Profiles > Text > Use a different font for non-ASCII text_ and change the non-ascii font as _**for Powerline_  
         
 Shortcuts
 ---------
